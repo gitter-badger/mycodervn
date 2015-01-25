@@ -1,0 +1,33 @@
+selector: textarea
+theme_advanced_toolbar_location: top
+theme_advanced_toolbar_align: left
+theme_advanced_statusbar_location: bottom
+toolbar1: bold italic underline strikethrough | alignleft aligncenter alignright alignjustify | link unlink | formatselect fontsizeselect 
+toolbar2: undo redo | searchreplace | code charmap | contextmenu | table | forecolor | indent outdent | bullist numlist | blockquote | preview
+plugins:
+  - autolink
+  - autoresize
+  - table
+  - fullscreen
+  - code
+  - charmap
+  - hr
+  - link
+  - charmap
+  - colorpicker
+  - lists
+  - paste
+  - tabfocus
+  - textcolor
+  - preview
+  - save
+  - textcolor
+  - wordcount
+  - spellchecker
+  - textpattern
+  - pagebreak
+  - lists
+  - legacyoutput
+  - directionality
+  - contextmenu
+menubar: false
